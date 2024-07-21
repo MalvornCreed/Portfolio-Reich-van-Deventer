@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Reich-van-Deventer/static/css/main.f855e6bc.css",
+    "main.js": "/Portfolio-Reich-van-Deventer/static/js/main.10fe0feb.js",
+    "static/js/453.78a19184.chunk.js": "/Portfolio-Reich-van-Deventer/static/js/453.78a19184.chunk.js",
+    "static/media/logo.svg": "/Portfolio-Reich-van-Deventer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Portfolio-Reich-van-Deventer/index.html",
+    "main.f855e6bc.css.map": "/Portfolio-Reich-van-Deventer/static/css/main.f855e6bc.css.map",
+    "main.10fe0feb.js.map": "/Portfolio-Reich-van-Deventer/static/js/main.10fe0feb.js.map",
+    "453.78a19184.chunk.js.map": "/Portfolio-Reich-van-Deventer/static/js/453.78a19184.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.10fe0feb.js"
+  ]
+}
